@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sreegandh804
-- 👀 I’m interested in AI/ML/NN
-- 🌱 I’m currently enrolled in a bachelors course in Computer Science with AI at the University of Leeds
+- 👀 I’m interested in AI/ML
 - 💞️ I’m looking to collaborate on any machine learning / neural networks projects
 - 📫 How to reach me https://www.linkedin.com/in/sreegandh-devireddy-990843171/
 
